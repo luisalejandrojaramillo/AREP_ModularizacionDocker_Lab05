@@ -59,6 +59,10 @@ respuesta a cada una de las tres instancias del servicio LogService.
 
 ![Step4](/img/p4.PNG)
 
+* Revisamos lo que esta corriendo nustra maquina EC2
+
+![Step5](/img/p5.PNG)
+
 ## Informe
 [Informe](/Lab05AWSDocker.pdf)
 
