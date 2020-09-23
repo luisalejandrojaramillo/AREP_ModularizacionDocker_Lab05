@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b8c6696f-8a76-4a77-914f-887e4296b15d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkDockerWeb.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/co/edu/escuelaing/SparkWebServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/SparkDockerWeb-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/co/edu/escuelaing/SparkWebServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/dependency/javax.servlet-api-3.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/dependency/jetty-client-9.4.8.v20171121.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/dependency/jetty-http-9.4.8.v20171121.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/dependency/jetty-io-9.4.8.v20171121.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/dependency/jetty-security-9.4.8.v20171121.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/dependency/jetty-server-9.4.8.v20171121.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/dependency/jetty-servlet-9.4.8.v20171121.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/dependency/jetty-util-9.4.8.v20171121.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/dependency/jetty-webapp-9.4.8.v20171121.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/dependency/jetty-xml-9.4.8.v20171121.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/dependency/junit-4.8.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/dependency/slf4j-api-1.7.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/dependency/spark-core-2.7.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/dependency/websocket-api-9.4.8.v20171121.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/dependency/websocket-client-9.4.8.v20171121.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/dependency/websocket-common-9.4.8.v20171121.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/dependency/websocket-server-9.4.8.v20171121.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/dependency/websocket-servlet-9.4.8.v20171121.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1hpoPYc6H6indY1tqPDyGPVLM1R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8c6696f-8a76-4a77-914f-887e4296b15d" name="Default Changelist" comment="" />
+      <created>1600717370290</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600717370290</updated>
+      <workItem from="1600717371742" duration="25000" />
+      <workItem from="1600718126713" duration="5804000" />
+      <workItem from="1600740913667" duration="1514000" />
+      <workItem from="1600801091610" duration="2815000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1600741552593">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600741552593" />
+  </component>
+</project>
